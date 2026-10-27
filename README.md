@@ -28,4 +28,4 @@ In terms of deployments, follow this deployment guide for T3 stack deployments o
 
 ### Help! I need help, who I can reach out too?
 
-Please direct all questions to [technology@dilloday.com](mailto:technology@dilloday.com)
+Please direct all questions to [technology@dilloday.com](mailto:technology@dilloday.com) or message in the Mayfest Technology communication channels
