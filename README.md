@@ -18,7 +18,7 @@ _Note: This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `cr
 
 If you're a new member to tech team, welcome! If you're someone interested in learning more of the "behind the scenes" of our team, then feel free to use this repository as an entry point to learning more about how Mayfest Productions builds our technology and products!
 
-To learn how you can get started with this project, you can check out the following [INSTRUCTION_SET_LINK_HERE] to get started!
+To learn how you can get started with this project, you can check out the following [INSTRUCTION_SET_LINK_HERE](https://mayfest-learning-app-instructions.vercel.app/instructions/getting-started/prereqs) [ACCOUNT INFO HERE](https://mayfest-learning-app-instructions.vercel.app/instructions/getting-started/development-environment) to get started!
 
 ## How do I get started?
 
